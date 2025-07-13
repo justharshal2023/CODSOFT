@@ -1,0 +1,13 @@
+streamlit==1.8.0 
+easygoogletranslate 
+wikipedia
+pillow 
+requests
+matplotlib
+tensorflow
+gdown
+transformers
+torch
+tf-keras
+groq
+numpy
